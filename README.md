@@ -2,6 +2,8 @@
 
 A simple project providing a useful base structure for python packages.
 
+An article with a step by step explanation of why this repository was created can be found on [my website](https://awaywithideas.com/the-optimal-python-project-structure/).
+
 ## Installation
 To install this project's package run:
 
